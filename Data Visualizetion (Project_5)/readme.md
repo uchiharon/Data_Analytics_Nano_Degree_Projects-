@@ -1,4 +1,4 @@
-# Diamonds Data Exploration
+# Flight Data Exploration
 
 ## Dataset
 
