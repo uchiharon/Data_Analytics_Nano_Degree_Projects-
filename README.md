@@ -6,16 +6,3 @@ _The projects are stored in different directory in order to mimic Udacity curati
 ![data](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/Udacity%20Data%20Analyst%20Certificate%20(1)-1.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-[Certificate] = https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/Udacity%20Data%20Analyst%20Certificate%20(1).pdf
