@@ -3,4 +3,5 @@
 
 _The projects are stored in different directory in other to mimic Udacity curation of the program_
 
-
+[<img align="left" alt="uchiharon | medium" width="30px"
+src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />]
