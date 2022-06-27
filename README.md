@@ -3,5 +3,19 @@
 
 _The projects are stored in different directory in other to mimic Udacity curation of the program_
 
-[<img align="left" alt="uchiharon | medium" width="30px"
-src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />]
+![data](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/Udacity%20Data%20Analyst%20Certificate%20(1).pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Certificate] = https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/Udacity%20Data%20Analyst%20Certificate%20(1).pdf
