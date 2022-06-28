@@ -5,4 +5,26 @@ _The projects are stored in different directory in order to mimic Udacity curati
 
 ![data](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/Udacity%20Data%20Analyst%20Certificate%20(1)-1.png)
 
+## Summary of Project Deliverables
+### 1. [Exploring Weather Trend]
+### 2. [Investigating a DataSet](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/tree/master/TMDb%20Dataset%20Investigation%20(Project%202))
+>* Carried out a study that involved going through the data analysis process and see how everything fits together. It started by selecting from a pool of dataset, taking a look at it and brainstorming what questions could be answered using it. Note: Inferential statistics or machine learning were not required for project completion. The process is demonstrated below (Image credit: Udacity Data Analytics Nanodegree)
+>
+>
+> ![png2](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/TMDb%20Dataset%20Investigation%20(Project%202)/Data%20Analysis%20Process.PNG)
+>
+>
+>
+> * The analysis was performed using the cleaned TMDB Movies dataset from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
+>
+> * Project specification: refer to this [rubric](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/TMDb%20Dataset%20Investigation%20(Project%202)/Investgating%20of%20TMDb%20Movie%20Dataset.pdf)
+> 
+> * Repository for project code and artifacts: Click [here](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/tree/master/TMDb%20Dataset%20Investigation%20(Project%202))
+> 
+> * Tool: Python- Pandas, Numpy, Matplotlib
+>
+>
+ ---
+ ### 3.
+
 
