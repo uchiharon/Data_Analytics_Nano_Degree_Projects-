@@ -6,18 +6,18 @@ _The projects are stored in different directory in order to mimic Udacity curati
 ![data](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/Udacity%20Data%20Analyst%20Certificate%20(1)-1.png)
 
 ## Summary of Project Deliverables
-### 1. [Exploring Weather Trend]()
+### 1. [Exploring Weather Trend](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/tree/master/Exploring%20Weather%20Trend%20(Project_1%20))
 >* Global temperature as became a hot topic over the years, as politicans argue about temperature policies and scientist try to understand how the world climate is actually changing. Temperature data around the world is an important part of this conversation. In this project, the goal was to analyze my country local and the global temperature, thereafter, compair the two trend.
 >
-> ![png1]()
+> ![png1](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/Exploring%20Weather%20Trend%20(Project_1%20)/Weather%20Trend%20Analysis.PNG)
 >
->* The analysis was performed using udacity private data base
+>* The analysis was performed using data from a learning database of [Udacity](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/Exploring%20Weather%20Trend%20(Project_1%20)/results.csv)
 >
-> * Project specification: refer to this [rubric](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/TMDb%20Dataset%20Investigation%20(Project%202)/Investgating%20of%20TMDb%20Movie%20Dataset.pdf)
+> * Project specification: refer to this [rubric](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/Exploring%20Weather%20Trend%20(Project_1%20)/Weather%20Trend%20Analysis.pdf)
 > 
-> * Repository for project code and artifacts: Click [here](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/tree/master/TMDb%20Dataset%20Investigation%20(Project%202))
+> * Repository for project code and artifacts: Click [here](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/tree/master/Exploring%20Weather%20Trend%20(Project_1%20))
 > 
-> * Tool: Python- Pandas, Numpy, Matplotlib
+> * Tool: PostGre SQL & Excel
 >
 >
 >
