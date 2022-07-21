@@ -9,7 +9,7 @@ _The projects are stored in different directory in order to mimic Udacity curati
 ### 1. [Exploring Weather Trend](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/tree/master/Exploring%20Weather%20Trend%20(Project_1%20))
 >* Global temperature as became a hot topic over the years, as politicans argue about temperature policies and scientist try to understand how the world climate is actually changing. Temperature data around the world is an important part of this conversation. In this project, the goal was to analyze my country local and the global temperature, thereafter, compair the two trend.
 >
-> ![png1](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/Exploring%20Weather%20Trend%20(Project_1%20)/Weather%20Trend%20Analysis.PNG)
+> ![png1](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/Exploring%20Weather%20Trend%20(Project_1%20)/Weather%20Trend%20Analysis.PNG )
 >
 >* The analysis was performed using data from a learning database of [Udacity](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/Exploring%20Weather%20Trend%20(Project_1%20)/results.csv)
 >
@@ -28,7 +28,6 @@ _The projects are stored in different directory in order to mimic Udacity curati
 > ![png2](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/TMDb%20Dataset%20Investigation%20(Project%202)/Data%20Analysis%20Process.PNG)
 >
 >
->
 > * The analysis was performed using the cleaned TMDB Movies dataset from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 >
 > * Project specification: refer to this [rubric](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/TMDb%20Dataset%20Investigation%20(Project%202)/Investgating%20of%20TMDb%20Movie%20Dataset.pdf)
@@ -38,7 +37,19 @@ _The projects are stored in different directory in order to mimic Udacity curati
 > * Tool: Python- Pandas, Numpy, Matplotlib
 >
 >
- ---
- ### 3.
 
-
+### 3. [E-commerce A/B Test Result Analysis](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/tree/master/analyzeabtestresults-2%20(Project_3)/AnalyzeABTestResults_2)
+>* The demand for e-commerce has been observed to continue growing as a result of ongoing digitalization and the effects of COVID-19 on the worldwide market. Because >of this rise in demand, customers now expect more from online retailers in terms of services. Companies release changes to their e-commerce platforms (website and >application) more frequently to cater to this demand, give clients the best possible service, and increase revenue. Although one of this company's goals is to >improve services, choosing the best option often requires considering a variety of options. The most advantageous choice can be discovered by doing and evaluating an >A/B text.
+>
+> ![png3](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/analyzeabtestresults-2%20(Project_3)/AnalyzeABTestResults_2/AB%20text%20OverView.png)
+>
+>* The analysis was performed using cleaned sample e-commerce web A/B test data provided by [Udacity](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/analyzeabtestresults-2%20(Project_3)/AnalyzeABTestResults_2/ab_data.csv)
+>
+> * Repository for project code and artifacts: Click [here](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/tree/master/analyzeabtestresults-2%20(Project_3)/AnalyzeABTestResults_2)
+>
+> * Project specification: refer to this [rubric & Review](https://github.com/uchiharon/Udacity_Data_Analytics_Nano_Degree_Projects/blob/master/analyzeabtestresults-2%20(Project_3)/AnalyzeABTestResults_2/AB%20Text%20Rubric%20and%20Review.pdf)
+> 
+> * Tool: Python- Pandas, Numpy, Matplotlib, Random
+>
+>
+### 4. [Wrangling and Analyzing of WeRateDogs Twitter Account]()
